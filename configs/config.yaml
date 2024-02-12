@@ -1,0 +1,6 @@
+model:
+  name: iris_classifier
+  license: "Apache 2.0"
+  description: "A classification model for the iris dataset."
+parameters:
+  gamma: 0.02
